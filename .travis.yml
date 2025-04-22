@@ -6,7 +6,7 @@ cache: npm
 notifications:
   email:
     recipients:
-      - 1183864793@qq.com # 设置通知邮件
+      - zzc245@foxmail.com # 设置通知邮件
     on_success: change
     on_failure: always
 
@@ -32,4 +32,4 @@ branches:
 
 env:
   global:
-    - REF=github.com/thesouther/myNotes.git # 设置 github 地址
+    - REF=github.com/tornado404/myNotes.git # 设置 github 地址
